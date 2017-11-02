@@ -1,0 +1,12 @@
+
+
+    <litepal>
+        <dbname value="weather"/>
+        <version value="1"/>
+        <list>
+            <mapping class="com.example.asdf.myapplication.db.Province"/>
+            <mapping class="com.example.asdf.myapplication.db.City"/>
+            <mapping class="com.example.asdf.myapplication.db.Country"/>
+        </list>
+    </litepal>
+
